@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: #2D2D2F;
+    color: #F2C063;
+}
+ol {
+    color: #ACD7E0;
+}
+h1 {
+    text-align: center;
+    background-image: linear-gradient(180deg, #BF6B8A, #ACD7E0, #F2C063, #2D2D2F, #F2F2F2);
+    color: black;
+}
+p {
+    text-align: justify;
+}
+a {
+    color: #ACD7E0;
+}
