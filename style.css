@@ -1,16 +1,19 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
 
 body {
     background-color: #2D2D2F;
     color: #F2C063;
 }
 ol {
-    color: #ACD7E0;
+    color: #F2C063;
 }
 h1 {
     text-align: center;
     background-image: linear-gradient(180deg, #BF6B8A, #ACD7E0, #F2C063, #2D2D2F, #F2F2F2);
     color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
 }
 ul {
     color: #BF6B8A;
@@ -27,4 +30,8 @@ a {
 }
 p {
     text-align: justify;
+}
+img {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
 }
