@@ -29,7 +29,7 @@ p {
 }
 a:hover {
     color: #ACD7E0;
-    text-decoration: underline;
+    text-decoration: none;
 }
 video {
     border-radius: 10px;
