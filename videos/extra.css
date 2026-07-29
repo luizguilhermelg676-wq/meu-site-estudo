@@ -1,18 +1,17 @@
 @charset "UTF-8";
 
 body {
-    background-color: #2D2D2F;
+    background-color: #BF6B8A;
     color: #F2C063;
 }
 main {
-    background-color: #BF6B8A;
+    background-color: #2D2D2F;
     width: auto;
     max-width: 90%;
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
     padding: 10px;
     margin: auto;
-    color: #2D2D2F;
 }
 h1 {
     text-align: center;
@@ -21,21 +20,35 @@ h1 {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
     color: black;
 }
-h2 {
-    text-align: center;
-}
 p {
     text-align: justify;
 }
-a:hover {
+a {
     color: #ACD7E0;
     text-decoration: none;
+}
+a:visited {
+    color: #ACD7E0;
+}
+a:hover {
+    text-decoration: underline;
 }
 video {
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
+    max-width: 95%;
 }
 iframe {
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
+    max-width: 95%;
+}
+nav {
+    background-color: #2D2D2F;
+    width: auto;
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
+    padding: 10px;
+    margin: auto;
 }
