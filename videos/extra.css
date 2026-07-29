@@ -27,8 +27,9 @@ h2 {
 p {
     text-align: justify;
 }
-a {
+a:hover {
     color: #ACD7E0;
+    text-decoration: underline;
 }
 video {
     border-radius: 10px;
