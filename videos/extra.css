@@ -21,6 +21,9 @@ h1 {
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
     color: black;
 }
+h2 {
+    text-align: center;
+}
 p {
     text-align: justify;
 }
@@ -33,4 +36,6 @@ video {
 }
 iframe {
     border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
+    max-width: 90%;
 }
