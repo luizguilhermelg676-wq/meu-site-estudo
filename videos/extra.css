@@ -7,7 +7,7 @@ body {
 main {
     background-color: #BF6B8A;
     width: auto;
-    max-width: 1000px;
+    max-width: 90%;
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
     padding: 10px;
@@ -37,5 +37,5 @@ video {
 iframe {
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.66);
-    max-width: 90%;
+    max-width: 80%;
 }
