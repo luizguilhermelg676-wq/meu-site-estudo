@@ -23,11 +23,13 @@ section {
     padding: 10px;
     margin: auto;
 }
-.shinjus {
+.main-list {
     color: #F2C063;
+    margin-left: 5px;
 }
 ol {
     color: #F2C063;
+    margin-left: -15px;
 }
 h1 {
     text-align: center;
@@ -38,13 +40,24 @@ h1 {
 }
 ul {
     color: #BF6B8A;
+    margin-left: -25px;
+}
+.músicas {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #F2C063;
+}
+audio {
+    margin-bottom: 5px;
 }
 dd {
     text-align: justify;
     color: #BF6B8A;
+    margin-left: 0px;
 }
 dt {
     color: #F2C063;
+    margin-left: -15px;
 }
 nav {
     background-color: #2D2D2F;
